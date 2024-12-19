@@ -21,8 +21,9 @@ Remote Procedure Call (RPC) endpoints are crucial for developers and application
 * https://core.drpc.org
 * https://rpcar.coredao.org (For Archive Node)
 
-### Third Party RPC Enpoints for Core Blockchain Mainnet
-* **Ankr:** https://rpc.ankr.com/core 
-* **1RPC:** https://1rpc.io/core 
-* **INFSTONES:** https://core.public.infstones.com 
-* **IceCreamSwap:** https://rpc-core.icecreamswap.com
+### Third Party RPC Endpoints for Core Blockchain Mainnet
+* **Ankr:** https://www.ankr.com/rpc/core/
+* **1RPC:** https://www.1rpc.io/ecosystem/core 
+* **INFSTONES:** https://docs.infstones.com/docs/core
+* **IceCreamSwap:** https://wiki.icecreamswap.com/get-started/rpc#core
+* **ZAN Node:** https://zan.top/service/public-rpc/core 

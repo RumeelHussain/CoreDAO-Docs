@@ -28,7 +28,7 @@ Core Chain is designed to cater to builders, offering a robust platform where va
 
 ### 4. How to connect MetaMask to Core Network?    
 
-Follow our detailed guide on how to connect your MetaMask wallet to the Core [Testnet](https://rumeelhussainbnb.github.io/CoreDAODocs/docs/Dev-Guide/core-testnet-wallet-config) and [Mainnet](https://rumeelhussainbnb.github.io/CoreDAODocs/docs/Dev-Guide/core-mainnet-wallet-config).
+Follow our detailed guide on how to connect your MetaMask wallet to the Core [Testnet](../Dev-Guide/core-testnet-wallet-config.md) and [Mainnet](../Dev-Guide/core-mainnet-wallet-config.md).
 
 ### 5. What role does the CORE token play in securing the Core network?
 
@@ -53,7 +53,7 @@ On the Core Chain network, slashing and jailing are mechanisms to penalize valid
     
 ### 8. What consensus mechanism does the Core network use, and how does it prevent different attacks?
 
-The Core network uses the Satoshi Plus consensus mechanism which combines Delegated Proof of Work (DPoW), Delegated Proof of Stake (DPoS) and Non-Custodial BTC Staking to secure the network against various attacks. This setup mitigates network attacks such as DDoS through node dispersion and randomized P2P communication. For consensus attacks like the 51% attack, it employs round-robin mining and a hybrid score system for validator election, making such attacks economically impractical. Additionally, Core Chain uses checkpointing to freeze and secure the blockchain's history periodically, thwarting long-range attacks. For more details, see the [Core Chain Security Overview](https://docs.coredao.org/core-white-paper-v1.0.7/satoshi-plus-consensus/security).
+The Core network uses the Satoshi Plus consensus mechanism which combines Delegated Proof of Work (DPoW), Delegated Proof of Stake (DPoS) and Non-Custodial BTC Staking to secure the network against various attacks. This setup mitigates network attacks such as DDoS through node dispersion and randomized P2P communication. For consensus attacks like the 51% attack, it employs round-robin mining and a hybrid score system for validator election, making such attacks economically impractical. Additionally, Core Chain uses checkpointing to freeze and secure the blockchain's history periodically, thwarting long-range attacks. For more details, see the [Core Chain Security Overview](https://whitepaper.coredao.org/core-white-paper-v1.0.7/satoshi-plus-consensus/security).
 
 ### 9. What is the average transaction confirmation time of Core network?
 
@@ -71,7 +71,7 @@ The Core Chain is still evolving and stepping hard on the innovation gear, as of
 
 ### 11. Where can I get the test CORE token from?
     
-To help users get started and allow developers to quickly prototype their dApps, Core has released the public [Core Testnet Faucet](https://scan.test.btcs.network/faucet) to distribute Core testnet tokens, tCORE. Follow the detailed guide [here](https://rumeelhussainbnb.github.io/CoreDAODocs/docs/Dev-Guide/core-faucet), on how to obtain tCORE from the Core testnet faucet.
+To help users get started and allow developers to quickly prototype their dApps, Core has released the public [Core Testnet Faucet](https://scan.test.btcs.network/faucet) to distribute Core testnet tokens, tCORE. Follow the detailed guide [here](../Dev-Guide/core-faucet), on how to obtain tCORE from the Core testnet faucet.
 
 ### 12. How can I contribute to the Core community?
 
